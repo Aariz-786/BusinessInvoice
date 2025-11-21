@@ -1,0 +1,5 @@
+{
+  "name": "BusinessInvoice Platform",
+  "description": "A B2B platform to consolidate billable services (utilities, resource bookings) into a single monthly invoice for tenants, featuring AI-powered bill ingestion, anomaly detection, and payment management.",
+  "requestFramePermissions": []
+}
